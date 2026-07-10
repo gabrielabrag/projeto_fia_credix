@@ -1,9 +1,15 @@
 # Credix — Predição de Risco de Inadimplência
 
 ## 1. Visão Geral
+A **Credix** é uma solução de Machine Learning criada para democratizar e reduzir o custo de acesso a modelos preditivos aplicados à concessão de crédito.
 
-A **Credix** é uma solução de Machine Learning desenvolvida para estimar a probabilidade de inadimplência de clientes em operações de crédito.
-A solução utiliza dados cadastrais, financeiros e informações do histórico de crédito para identificar padrões associados ao risco de inadimplência.
+Por meio de uma API, empresas podem estimar a probabilidade de inadimplência e obter informações para apoiar suas decisões de crédito, sem a necessidade de investir tempo e recursos na construção, implantação e manutenção de um modelo próprio.
+
+A solução utiliza dados cadastrais, financeiros e informações do histórico de crédito para identificar padrões associados ao risco de inadimplência. Sua arquitetura contempla todo o ciclo de Machine Learning, incluindo preparação dos dados, treinamento, disponibilização do modelo, monitoramento e evolução contínua.
+
+A proposta da Credix é funcionar como uma solução de **Machine Learning as a Service**, permitindo que diferentes empresas integrem inteligência preditiva aos seus processos de forma simples, escalável e economicamente acessível.
+
+Com a expansão da plataforma e a incorporação governada de novos dados e resultados reais, o modelo poderá ser continuamente monitorado e retreinado com informações mais amplas e diversificadas, aumentando seu potencial de generalização e adaptação a diferentes perfis de clientes e operações de crédito.
 
 O projeto contempla as principais etapas do ciclo de vida de Machine Learning:
 
